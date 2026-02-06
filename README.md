@@ -31,7 +31,8 @@ Growth happens when **strategy, data, and execution** move in the same direction
 
 ## 🧩 Growth Framework (Visual Map)
 <p align="center">
-  <img src="images/growth-map.png" alt="Growth Framework Head of Growth Colombia" width="900"/>
+  <img src="<img width="1536" height="1024" alt="imagesgrowth-map png" src="https://github.com/user-attachments/assets/e8f68ba0-d62b-40ba-bdb7-f46e2b635684" />
+" alt="Growth Framework Head of Growth Colombia" width="900"/>
 </p>
 
 **Strategic Pillars**
